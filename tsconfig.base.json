@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@angular-monorepo/models": ["libs/models/src/index.ts"]
+      "@angular-monorepo/models": ["libs/models/src/index.ts"],
+      "@angular-monorepo/ui-lib": ["libs/ui-lib/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
